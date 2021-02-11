@@ -3758,11 +3758,11 @@ input, select, textarea {
 		border-radius: 100px;
 		-webkit-border-radius: 100px;
 		-moz-border-radius: 100px;
-		/*background: url(https://raw.githack.com/anisun1997/Portfolio/main/Profile_pic.jpg) no-repeat;*/
+		background: url(https://raw.githack.com/anisun1997/Portfolio/main/Profile_pic.jpg) no-repeat;
 		box-shadow: 0 0 8px rgba(0, 0, 0, .8);
 		-webkit-box-shadow: 0 0 8px rgba(0, 0, 0, .8);
 		-moz-box-shadow: 0 0 8px rgba(0, 0, 0, .8);
-		/*background-size: cover;*/
+		background-size: cover;
 		margin-left: auto;
 		margin-right: auto;	
 	}
