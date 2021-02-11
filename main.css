@@ -3749,7 +3749,23 @@ input, select, textarea {
 	body.is-preload #banner:after {
 		opacity: 1;
 	}
-
+/* Profile Picture */
+	
+	.avatar {
+   	 	width: 180px;
+		height: 180px;
+		border: 5px solid #ffff;
+		border-radius: 100px;
+		-webkit-border-radius: 100px;
+		-moz-border-radius: 100px;
+		background: url("https://github.com/anisun1997/Portfolio/blob/main/Profile_pic.jpg") no-repeat;
+		box-shadow: 0 0 8px rgba(0, 0, 0, .8);
+		-webkit-box-shadow: 0 0 8px rgba(0, 0, 0, .8);
+		-moz-box-shadow: 0 0 8px rgba(0, 0, 0, .8);
+		background-size: cover;
+		margin-left: auto;
+		margin-right: auto;	
+	}
 /* CTA */
 
 	#cta .inner {
