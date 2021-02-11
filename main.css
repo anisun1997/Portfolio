@@ -3401,7 +3401,7 @@ input, select, textarea {
 					}
 
 		#menu .close {
-			background-image: url("images/close.svg");
+			background-image: url(https://raw.githack.com/anisun1997/Portfolio/main/close.svg);
 			background-position: 4.85em 1em;
 			background-repeat: no-repeat;
 			border: 0;
@@ -3669,7 +3669,7 @@ input, select, textarea {
 		}
 
 			#banner .more:after {
-				background-image: url("https://raw.githack.com/anisun1997/Portfolio/main/arrow.svg");
+				background-image: url(https://raw.githack.com/anisun1997/Portfolio/main/arrow.svg);
 				background-position: center;
 				background-repeat: no-repeat;
 				background-size: contain;
