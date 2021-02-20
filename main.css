@@ -4450,7 +4450,7 @@ opacity: 1;
 					}
 
 		#menu .close {
-			background-image: url("images/close.svg");
+			background-image: url("close.svg");
 			background-position: 4.85em 1em;
 			background-repeat: no-repeat;
 			border: 0;
@@ -4567,7 +4567,7 @@ opacity: 1;
 						}
 
 							#header nav > ul > li > a.menuToggle:after {
-								background-image: url("images/bars.svg");
+								background-image: url("bars.svg");
 								background-position: right center;
 								background-repeat: no-repeat;
 								content: '';
@@ -4725,7 +4725,7 @@ opacity: 1;
 		}
 
 			#banner .more:after {
-				background-image: url("images/arrow.svg");
+				background-image: url("arrow.svg");
 				background-position: center;
 				background-repeat: no-repeat;
 				background-size: contain;
